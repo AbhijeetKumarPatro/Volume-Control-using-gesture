@@ -10,7 +10,7 @@ We first look into hand tracking and then we will use the hand landmarks to find
 Step 1:
 Clone this repository on your local computer
 
-`git clone https://github.com/Diwas524/Volume-Control-using-gesture.git`
+`git clone https://github.com/AbhijeetKumarPatro/Volume-Control-using-gesture.git`
 
 Step 2:
 Install all the requirements
